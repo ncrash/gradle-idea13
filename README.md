@@ -1,7 +1,8 @@
 gradle-idea13
 =============
 
-Getting Started with Gradle in IntelliJ IDEA 13 - http://goo.gl/wbTfwc
+* [▶ Getting Started with Gradle in IntelliJ IDEA 13 - YouTube](http://goo.gl/wbTfwc)
+    * [동영상 주요장면 캡쳐 - https://www.flickr.com/photos/dkkang1018/sets/72157644149606592](https://www.flickr.com/photos/dkkang1018/sets/72157644149606592/)
 
 
 목적
@@ -19,11 +20,6 @@ Getting Started with Gradle in IntelliJ IDEA 13 - http://goo.gl/wbTfwc
 * IntelliJ IDEA13 -> Open Gradle Project
     * [![](https://farm6.staticflickr.com/5290/13940830011_2ac1ff61a9_z.jpg)](https://www.flickr.com/photos/dkkang1018/13940830011/)
     * Import 조건은 스크린샷과 동일하게 지정 후 진행
-
-동영상 주요장면 캡쳐
--------------
-
-* [https://www.flickr.com/photos/dkkang1018/sets/72157644149606592/](https://www.flickr.com/photos/dkkang1018/sets/72157644149606592/)
 
 
 프로젝트 초기 셋팅과정
